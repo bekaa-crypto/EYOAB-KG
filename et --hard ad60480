@@ -1,0 +1,13 @@
+[33m4c22543[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add Netlify config with Node 18, build command, and publish folder
+[33m8be034c[m  update Netlify build path
+[33med90d1c[m Fix Vite build config and prepare for Netlify deploy
+[33m827569c[m Update .env.example placeholders
+[33md29d7a1[m Remove real .env files from repository
+[33mad60480[m first
+[33m0545185[m Update Footer.tsx
+[33mf718520[m Update Footer.tsx
+[33m2c8db54[m Update Navbar.tsx
+[33mab8d9a0[m Update Home.tsx
+[33m43be464[m Update About.tsx
+[33mb503c62[m Connect to Lovable Cloud
+[33m6f842d6[m [skip lovable] Use tech stack vite_react_shadcn_ts_20250728_minor
